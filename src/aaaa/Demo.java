@@ -12,6 +12,7 @@ public class Demo {
 		System.out.println("hey coder");
 
 		System.out.println("hello vijay");
+		System.out.println("hey sankar");
 	}
 
 }
