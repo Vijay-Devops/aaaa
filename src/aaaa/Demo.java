@@ -14,11 +14,14 @@ public class Demo {
 
 		System.out.println("hello vijay");
 		System.out.println("hey sankar");
+		System.out.println("hey youkkkkkk");
 		System.out.println("hey you");
-		System.out.println("if you are bad im your dad");
 		System.out.println("if you are bad im your dad");
 
 		
+		System.out.println("if you are bad 1234");
+
+		System.out.println("if you are bad 1234uuuuuu");
 	}
 
 }
